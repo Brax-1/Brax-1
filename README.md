@@ -12,10 +12,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Resume](https://github.com/Brax-1/Resume)**
-
-- 📫 How to reach me **ay701548@gmail.com**
-
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
